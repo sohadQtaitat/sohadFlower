@@ -36,8 +36,8 @@ You can use the [Mind Sit book](https://mindsetonline.com/thebook/buythebook/ind
 | 1    	| learning markdown 	| [learning markdown](https://www.markdowntutorial.com)       	|
 | 2    	| Mind Set          	| [learning mind set](https://www.mindsetworks.com/science/ ) 	|
 | 3    	| git               	| [learning git](https://www.git-scm.com)                     	|
-| 4    	| Css               	| [learning Css] (https://www.w3schools.com/css/ )            	|
-| 5    	| html              	| [learning html] ( https://www.w3schools.com/html/ )         	|
+| 4    	| Css               	| [learning Css](https://www.w3schools.com/css/ )            	|
+| 5    	| html              	| [learning html](https://www.w3schools.com/html/ )         	|
 | 6    	| js                	| [learning java script](https://www.w3schools.com/js/ )      	|
 
 
