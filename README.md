@@ -13,7 +13,7 @@ You can use the [Mind Sit book](https://mindsetonline.com/thebook/buythebook/ind
 **No Pain = No Gain ; I'm not ready YET but some day I will , no bady born with complet mind, I'm Strong I;ll not for getup ;so I will read ,try , be patient finally i achive my goal succssesfuly  :)**
  
  ***Types of Mindsets***
- 
+
  
  * The Social Mindset
  
